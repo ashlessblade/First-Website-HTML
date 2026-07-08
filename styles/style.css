@@ -20,3 +20,23 @@ li {
 html {
   background-color: #804000bf;
 }
+
+body {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #ffa200;
+  padding: 0 20px 20px 20px;
+  border: 5 px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #42aae2;
+  text-shadow: 3px 3px 1px black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
